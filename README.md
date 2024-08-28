@@ -1,3 +1,7 @@
-###Problem Solving Solutions in Javascript
-###Beginner Level
-###Codewars Kata8 ###https://www.codewars.com/
+### Problem Solving Solutions in JavaScript
+
+### Beginner Level
+
+### Codewars Kata 8
+
+[Codewars](https://www.codewars.com/)
